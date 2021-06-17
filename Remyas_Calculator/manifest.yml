@@ -1,0 +1,7 @@
+---
+applications:
+ - name: calculator
+   host: remya_tr
+   domain: eu-gb.mybluemix.net
+   memory: 64M
+   buildpack : https://github.com/cloudfoundry/staticfile-buildpack
